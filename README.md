@@ -19,7 +19,6 @@ Fecha límite: seleccioná del calendario. Presioná "Guardar".
 Verás un mensaje de confirmación "Tarea creada Correctamente” y serás redirigido al menú
 4.	Consultar tareas registradas
 Tocá "Ver tareas registradas". La lista está dividida en:
- 
 Pendientes Completadas
 Cada tarea se muestra con:
 Título
